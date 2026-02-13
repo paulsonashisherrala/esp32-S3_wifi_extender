@@ -5,8 +5,6 @@ Here is the complete, single-file `README.md` incorporating the configuration st
 ```markdown
 # 🚀 ESP32-S3 Wi-Fi Extende
 
-![Status](https://img.shields.io/badge/Status-Stable-success) ![Platform](https://img.shields.io/badge/Platform-ESP32--S3-blue) ![License](https://img.shields.io/badge/License-MIT-green)
-
 A high-performance **Wi-Fi Range Extender** firmware for **ESP32-S3** microcontrollers. This project utilizes native **NAPT (Network Address Port Translation)** to transparently extend Wi-Fi networks while hosting a professional, real-time **Glassmorphism Web Dashboard** directly on the device.
 
 ---
